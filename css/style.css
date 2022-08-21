@@ -1,0 +1,18 @@
+body {
+    background-image: url("/images/bg-2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+    background-color: #A8A9AD;
+}
+
+h2 {
+    margin-top: 1%; 
+    color: #A8A9AD; 
+    text-align: center;
+}
+
+h3 {
+    color: #A8A9AD;
+}
